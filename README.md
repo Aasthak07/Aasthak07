@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me:
+###  About Me:
 
 * 🌱 I’m currently learning **Web Development & DSA**
 * 💬 Ask me about **HTML, CSS, JavaScript, React**
