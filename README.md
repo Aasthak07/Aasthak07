@@ -6,6 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Aastha%20|%20Web%20Developer;Problem%20Solver;Tech%20Enthusiast;DSA%20Learner&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aasthak07&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
+</p>
+
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Aasthak07/Aasthak07/main/girl-coding.gif"/>
