@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm Aastha Kumari</h1>
 
 <p align="center">
@@ -9,9 +8,7 @@
 
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
- 
- <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Aasthak07/Aasthak07/main/girl-coding.gif"/>
-
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Aasthak07/Aasthak07/main/girl-coding.gif"/>
 
 ---
 
@@ -59,8 +56,8 @@
 ### 📊 GitHub Stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Aasthak07&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasthak07&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aasthak07&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasthak07&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -68,7 +65,7 @@
 ### 🔥 GitHub Streak:
 
 <p>
-<img src="https://streak-stats.demolab.com/?user=Aasthak07&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Aasthak07&theme=tokyonight" />
 </p>
 
 ---
@@ -86,4 +83,3 @@
 * 🌐 https://aastha-portfolio-nu.vercel.app/
 
 ---
-
