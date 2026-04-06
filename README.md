@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aastha Kumari</h1>
+<h1 align="center">Hi 👋, I'm Aastha </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Aastha%20|%20Web%20Developer;Problem%20Solver;Tech%20Enthusiast;DSA%20Learner&center=true&width=500&height=50">
