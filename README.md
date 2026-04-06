@@ -9,7 +9,7 @@
 
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
- <--<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
+ 
  <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Aasthak07/Aasthak07/main/248884004-af212da4-8588-4d7c-8400-16e5f27460a0.gif"/>
 
 
