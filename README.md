@@ -9,8 +9,9 @@
 
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
-<!-- <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
-<img align="right" alt="coding" width="300" src="https://assets.website-files.com/5f75c2cc0b5f8f8d56c1bba5/5f7d7c0c4c8e2c6e5b2e2b4a_programmer.svg"/>
+ <--<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
+ <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 
 ---
 
